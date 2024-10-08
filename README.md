@@ -137,7 +137,7 @@ Saia do prompt interativo:
 2. Verifique se a FPGA foi configurada corretamente:
 
    ```bash
-   bladeRF-tool info
+   bladerf-tool info
    ```
    
 3. Configuração Persistente:
