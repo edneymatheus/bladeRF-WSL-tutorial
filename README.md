@@ -39,7 +39,7 @@ No Ubuntu (WSL):
 ```bash
 sudo apt update
 sudo apt upgrade -y
-sudo apt install -y build-essential cmake git pkg-config libusb-1.0-0-dev libcurl4-openssl-dev libtecla-dev libglib2.0-dev
+sudo apt install -y build-essential cmake git pkg-config libusb-1.0-0-dev libcurl4-openssl-dev libtecla-dev libglib2.0-dev libncurses-dev
 ```
 
 ---
