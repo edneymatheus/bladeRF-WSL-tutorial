@@ -102,7 +102,7 @@ Ex.:
 
 ### 5.2 Atualizando o Firmware
 ```bash
-bladeRF-cli -L ./bladeRF_fw_v2.5.0.img
+bladeRF-cli -f ./bladeRF_fw_v2.5.0.img
 ```
 Depois desconecte e reconecte a placa.
 
